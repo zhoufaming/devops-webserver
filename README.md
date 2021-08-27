@@ -11,7 +11,7 @@ English | [简体中文](./README-zh.md)
 
 ```bash
 # clone the project
-git clone http://git.si-tech.com.cn:9002/opsapi/opsapi-webserver.git
+git clone https://github.com/zhoufaming/devops-webserver
 
 # enter the project directory
 cd opsapi-webserver
