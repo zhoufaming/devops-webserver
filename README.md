@@ -14,7 +14,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/zhoufaming/devops-webserver
 
 # enter the project directory
-cd opsapi-webserver
+cd devops-webserver
 
 # install dependency
 npm install
